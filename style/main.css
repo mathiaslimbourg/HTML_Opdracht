@@ -1,0 +1,48 @@
+body {
+  font-family: 'Montserrat', serif;
+  background-color: #f1f1f1;
+}
+.nav {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.nav-item{
+  padding: 20px;
+}
+
+.nav-link{
+  color: white;
+}
+
+#backgroundColor-AboutMe {
+  background-color: #1abc9c;
+}
+
+#backgroundColor-MyService {
+  background-color: #3498db;
+}
+
+#backgroundColor-MyResume {
+  background-color: #9b59b6;
+}
+
+#backgroundColor-MyWorks {
+  background-color: #e67e22;
+}
+
+#backgroundColor-ContactMe {
+  background-color: #d9a81d;
+}
+#backgroundColor-MyBlog{
+  background-color: #e74c3c;
+}
+
+.jumbotron{
+  background-color: white;
+  margin: 0px;
+  border-radius: 0px;
+}
+.img-thumbnail{
+  border: 0px;
+}
